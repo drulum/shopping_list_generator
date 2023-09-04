@@ -1,0 +1,6 @@
+# Please, no, Jetbrains
+.idea
+
+# Project specific
+.env
+data
